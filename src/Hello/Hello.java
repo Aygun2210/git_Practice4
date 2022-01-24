@@ -5,5 +5,9 @@ public class Hello {
          //step1
         System.out.println("Hello world");
 
+        System.out.println("B25 learning git and github");
+
+
+
     }
 }
